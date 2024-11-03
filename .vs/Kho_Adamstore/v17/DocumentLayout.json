@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|c:\\users\\minh thien\\desktop\\kho_adamstore\\kho_adamstore\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\chitietxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\chitietxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\kho_adamstore\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E972854-E73C-46F9-A2D3-12C7083992EB}|Kho_Adamstore\\Kho_Adamstore.csproj|solutionrelative:kho_adamstore\\chitietpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoaiHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\LoaiHang.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\LoaiHang.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\LoaiHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:57.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\Hang.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\Hang.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\Hang.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\Hang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\DangNhap.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:55.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\App.config",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\App.config",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\App.config",
+              "RelativeToolTip": "Kho_Adamstore\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-02T14:08:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dangky.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\dangky.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\dangky.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\dangky.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\dangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:08:48.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\TrangChu.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\TrangChu.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:07:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chitietxuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\chitietxuat.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\chitietxuat.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\chitietxuat.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\chitietxuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:07:16.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "chitietpn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\chitietpn.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\chitietpn.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\chitietpn.cs [Design]",
+              "RelativeToolTip": "Kho_Adamstore\\chitietpn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:07:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Kho_Adamstore\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\Minh Thien\\Desktop\\Kho_Adamstore\\Kho_Adamstore\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "Kho_Adamstore\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:05:19.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
